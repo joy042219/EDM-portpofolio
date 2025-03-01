@@ -1,4 +1,4 @@
-# EDM-portpofolio
+# EDM-portfolio
 This is my data management portfolio in EDM
 ## About Me
 hi hwigewj
