@@ -15,6 +15,6 @@ For this task we are given a Flat Excel (See rawfile) and we are Task to perfom 
   - Mapped the Normalized tables as a Physical data model
  
  # STEP 3 Here's the screenshot of  my output before I started data cleaning (See screenshot)
- <img src="" alt="Alt Text" width="400" height="300">
+ <img src="Image/RawData.png" alt="Alt Text" width="400" height="300">
 
     
