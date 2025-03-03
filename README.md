@@ -8,6 +8,6 @@ is I am a honor student when i was graduated in High School.
 - Elementary : Matnog National High School
 -  High School : Matnog National High School
 ### My Projects 
-- Midterm Lab Task 1: [Data Cleaning  and Preparation using Excel]()
+- Midterm Lab Task 1: [Data Cleaning  and Preparation using Excel](Midterm%20Task%201/README.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]()
 
