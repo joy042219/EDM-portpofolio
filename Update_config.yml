@@ -1,5 +1,0 @@
-title: joy042219
-description: A simple Jekyll site with a GitHub-inspired theme.
-baseurl: ""
-url: "http://localhost:4000"  # Change to your live site URL when deployed
-theme: "minima"  # Use the default Minima theme
