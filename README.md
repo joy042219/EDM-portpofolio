@@ -7,6 +7,6 @@ I’m a first-year college student currently learning coding, with a developing 
 - Elementary : Matnog National High School
 -  High School : Matnog National High School
 ### My Projects 
-- Midterm Lab Task 1: [Data Cleaning  and Preparation using Excel](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%201/task1.md)
+ - Midterm Lab Task 1: [Data Cleaning  and Preparation using Excel](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%201/task1.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]()
 
