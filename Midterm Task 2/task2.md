@@ -40,25 +40,25 @@ Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](
 
 ## Cleaned DS Jobs: 
 
-<img src="images/Cleaned.PNG" alt="Alt Text" width="1000" height="500">
+<img src="image/Uncleaned.PNG"Alt Text" width="1000" height="500">
 
 ## Sal By Role Type dup:
 
-<img src="images/Role Type.PNG" alt="Alt Text" width="1000" height="500">
+<img src="image/role type.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Size ref:
 
-<img src="image/state by ref.PNG" alt="Alt Text" width="1000" height="500">
+<img src="image/role size.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Sal By State:
 
-<img src="images/States.PNG" alt="Alt Text" width="1000" height="500">
+<img src="image/state.PNG" alt="Alt Text" width="1000" height="500">
 
 ## Sal By State ref:
 
-<img src="images/State Ref.PNG" alt="Alt Text" width="1000" height="500">
+<img src="image/state by ref.PNG" alt="Alt Text" width="1000" height="500">
 
 
 ## Query Dependencies:
-<img src="images/Query Dependencies.PNG" alt="Alt Text" width="600" height="500">
+<img src="image/Query dependencies.PNG"Alt Text" width="600" height="500">
 github.com
