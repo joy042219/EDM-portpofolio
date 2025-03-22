@@ -9,4 +9,4 @@ I’m a first-year college student currently learning coding, with a developing 
 ### My Projects 
  - Midterm Lab Task 1: [Data Cleaning  and Preparation using Excel](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%201/task1.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%202/task2.md)
-
+ - Midterm Lab Task 3: [Using Pivot Table and Create Dashboard](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%203%20/Task3.md)
