@@ -19,4 +19,4 @@ Create a Pivot Table-based dashboard using the provided dataset. Summarize salar
 - Applied design and color settings to improve visual appeal and readability.
 # Final output (screenshot of the Dashboard):
 
-<img src="images/Dashboard.PNG" alt="Alt Text" width="900" height="600">
+<img src="image/dashboard.pg.PNG" alt="Alt Text" width="900" height="600">
