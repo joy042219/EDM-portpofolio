@@ -2,7 +2,7 @@
 This repository contains a set of SQL tasks to be performed using MySQL Workbench. The goal is to practice essential SQL operations such as database creation, table management, data manipulation, and querying. All tasks must be executed in MySQL Workbench and completed in the order specified to maintain proper structure and data relationships.
  
 # STEP BY STEP:
-these steps in order to complete Tasks 1–5 using MySQL Workbench
+these steps in order to complete Tasks using MySQL Workbench
 ## Step 1: Create the Events Table
  <img src="image/events_tbl.PNG" alt="Alt Text" width="400" height="200">
 
@@ -18,3 +18,5 @@ these steps in order to complete Tasks 1–5 using MySQL Workbench
  ## ER Diagram or Relational Schema  
  This diagram visually represents the relationships between the tables in the database. It shows how entities like employees, departments, and projects are linked using primary and foreign keys.
 <img src="image/Erd diagram.PNG" alt="Alt Text" width="400" height="300">
+(
+# SQL Copy of the Database  ->> [Event Management](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%201/events_management%20SQL)
