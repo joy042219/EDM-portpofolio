@@ -1,0 +1,40 @@
+CREATE DATABASE events_tbl;
+ USE events_tbl;
+ SHOW DATABASES;
+ 
+ -- CREATE EVENT TABLE
+ CREATE TABLE events_tbl(
+ event_id INT (3) AUTO_INCREMENT PRIMARY KEY,
+ event_name VARCHAR (255) NOT NULL
+ );
+ 
+ DESCRIBE events_tbl;
+ 
+  -- CREATE   ATTENDEES TABLE
+ CREATE TABLE attendees_tbl(
+ attendee_id INT (3) AUTO_INCREMENT PRIMARY KEY,
+ attendee_name VARCHAR (255) NOT NULL
+ );
+ 
+ DESCRIBE attendees_tbl;
+ 
+  -- CREATE EVENT ATTENDEES TABLE
+ CREATE TABLE event_attendees_tbl(
+ event_id INT (3),
+ FOREIGN KEY (event_id) REFERENCES events_tbl(event_id),
+ attendee_id INT (3),
+ FOREIGN KEY (attendee_id) REFERENCES attendees_tbl(attendee_id),
+ PRIMARY KEY (event_id, attendee_id)
+ );
+ 
+ DESCRIBE event_attendees_tbl;
+ 
+  -- CREATE EVENT SPONSOR TABLE
+ CREATE TABLE event_sponsors_tbl(
+ sponsor_id INT (3) AUTO_INCREMENT PRIMARY KEY,
+ event_id INT (3),
+ FOREIGN KEY (event_id) REFERENCES events_tbl(event_id),
+ sponsor_name VARCHAR (255) NOT NULL
+ );
+ 
+  DESCRIBE event_sponsors_tbl;
