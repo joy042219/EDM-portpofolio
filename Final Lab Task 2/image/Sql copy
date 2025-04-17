@@ -1,0 +1,26 @@
+ CREATE DATABASE student_tbl;
+ USE student_tbl;
+ SHOW DATABASES;
+ 
+CREATE TABLE students_tbl(
+ username VARCHAR (50)
+ );
+ 
+ DESCRIBE students_tbl;
+ 
+ CREATE TABLE assignments_tbl(
+ shortname VARCHAR (50),
+ due_date DATE NOT NULL,
+ url VARCHAR (255) NULL
+ );
+ 
+  DESCRIBE assignments_tbl;
+  
+  CREATE TABLE submission_tbl(
+  username VARCHAR (50),
+  shortname VARCHAR (50),
+  version INT,
+  submit_date DATE NOT NULL,
+  datas TEXT
+  );
+   DESCRIBE submission_tbl;
