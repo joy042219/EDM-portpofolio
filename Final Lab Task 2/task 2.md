@@ -1,4 +1,5 @@
 # Final Lab Task 2: Transforming ER Model to Relational Tables
+ The task is to convert an ER diagram of student assignment submissions into MySQL tables by defining entities and their attributes, establishing relationships, and identifying primary and foreign keys. It also involves accurately representing any dependent or weak entities to create a normalized database schema for effective data management.
 
 # Step by Step
  these are the Steps in order to complete the tasks usigng My SQL Workbench
