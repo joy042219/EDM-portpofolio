@@ -11,3 +11,4 @@ I’m a first-year college student currently learning coding, with a developing 
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%202/task2.md)
  - Midterm Lab Task 3: [Using Pivot Table and Create Dashboard](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%203%20/Task3.md)
  - Final Lab Task 1: [My SQL Basics](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%201/task1.md)
+ - Final Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%202/task2.md)
