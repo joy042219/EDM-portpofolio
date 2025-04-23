@@ -1,26 +1,28 @@
- CREATE DATABASE student_tbl;
- USE student_tbl;
- SHOW DATABASES;
+CREATE DATABASE assdb;
+USE assdb_tbl;
+SHOW DATABASES;
+
+CREATE TABLE student_tbl(
+ username VARCHAR(50) PRIMARY KEY
+ );
+ DESCRIBE student_tbl;
  
-CREATE TABLE students_tbl(
- username VARCHAR (50)
+ CREATE TABLE assignment_tbl(
+ shortname VARCHAR(50) PRIMARY KEY,
+ duue_date DATE NOT NULL,
+ url VARCHAR(255)
+ );
+ DESCRIBE assignment_tbl;
+ 
+ CREATE TABLE submission_tbl(
+username VARCHAR(50),
+ shortname VARCHAR(50),
+ version INT(3) PRIMARY KEY,
+ data_sub TEXT ,
+ submit_date DATE NULL,
+ FOREIGN KEY (username) REFERENCES student_tbl (username),
+ FOREIGN KEY (shortname)  REFERENCES assignment_tbl (shortname)
  );
  
- DESCRIBE students_tbl;
- 
- CREATE TABLE assignments_tbl(
- shortname VARCHAR (50),
- due_date DATE NOT NULL,
- url VARCHAR (255) NULL
- );
- 
-  DESCRIBE assignments_tbl;
+ DESCRIBE submission_tbl;
   
-  CREATE TABLE submission_tbl(
-  username VARCHAR (50),
-  shortname VARCHAR (50),
-  version INT,
-  submit_date DATE NOT NULL,
-  datas TEXT
-  );
-   DESCRIBE submission_tbl;
