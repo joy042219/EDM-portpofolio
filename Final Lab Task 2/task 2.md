@@ -28,7 +28,7 @@
  <img src="image/2 SUBMISSION_TBL.PNG" alt="Alt Text" width="400" height="300">
 
  # ER Diagram or Relational Schema
-  <img src="image/ERD OF STU TBL.PNG" alt="Alt Text" width="400" height="400">
+  <img src="image/ERD task 2.PNG" alt="Alt Text" width="400" height="400">
  
   # SQL Copy of the Database  ->> [Student Assignment Submission](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%202/image/Sql%20copy)
 
