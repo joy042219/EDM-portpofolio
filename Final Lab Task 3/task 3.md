@@ -1,5 +1,6 @@
 # Final Task 3: Table Manipulation
 ## Task Description
+Designed and manipulated a MySQL table named products by creating fields with appropriate data types and constraints. Implemented a CHECK constraint to ensure positive pricing, inserted valid product data, and used ALTER statements to update the field length.
 Created and modified a MySQL table called "products" with appropriate data types and constraints, including a CHECK constraint for positive pricing. Inserted valid data and adjusted field lengths using ALTER statements.
 
 # Step 1
