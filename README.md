@@ -12,4 +12,5 @@ I’m a first-year college student currently learning coding, with a developing 
  - Midterm Lab Task 3: [Using Pivot Table and Create Dashboard](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%203%20/Task3.md)
  - Final Lab Task 1: [My SQL Basics](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%201/task1.md)
  - Final Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%202/task2.md)
+ - Final Lab task 3: [Table Manipulation](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%203/task%203.md)
  - Final Lab Task 4: [Using SELECT Statement](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%204/task%204.md)
