@@ -14,3 +14,4 @@ I’m a first-year college student currently learning coding, with a developing 
  - Final Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/joy042219/EDM-portpofolio/blob/main/Midterm%20Task%202/task2.md)
  - Final Lab task 3: [Table Manipulation](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%203/task%203.md)
  - Final Lab Task 4: [Using SELECT Statement](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%204/task%204.md)
+ - Final Lab Task 5: [Using Stored PRocedures Views and Function](https://github.com/joy042219/EDM-portpofolio/blob/main/Final%20Lab%20Task%205/task%205.md)
